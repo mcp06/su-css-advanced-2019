@@ -1,0 +1,23 @@
+title: My First CSS Advanced Home Project
+email: g.hadzhiyska@gmail.com
+description: Hello there
+baseurl: ""
+url: "" 
+twitter_username: none
+github_username:  mcp06
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
